@@ -19,5 +19,4 @@ const createNewPost = async (e) => {
 
 
 
-
 window.addEventListener('submit', createNewPost);
